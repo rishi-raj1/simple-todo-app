@@ -28,6 +28,3 @@ This will start the development server and open the app in your default web brow
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
