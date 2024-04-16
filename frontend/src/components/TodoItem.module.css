@@ -1,0 +1,45 @@
+.container {
+    margin-bottom: 10px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.textDiv {
+    display: flex;
+    align-items: center;
+}
+
+.textDiv span {
+    margin-right: 15px;
+}
+
+.imagesDiv {
+    display: flex;
+    align-items: center;
+}
+
+.deleteDiv {
+    cursor: pointer;
+    padding-top: 4px;
+    margin: 0 20px;
+}
+
+.deleteDiv img {
+    height: 16px;
+    width: 13px;
+}
+
+.checkDiv {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
